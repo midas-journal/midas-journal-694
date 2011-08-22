@@ -1,0 +1,185 @@
+\begin{thebibliography}{10}
+
+\bibitem{Brechbuhler95}
+C.~Brechbuhler, G.~Gerig, and O.~Kubler.
+\newblock Parameterization of clsed surfaces for 3d shape description.
+\newblock {\em Computer Vision, Graphics, Image Processing: Image
+  Understanding}, 1995.
+
+\bibitem{chung2001}
+M.K. Chung.
+\newblock {\em Statistical Morphometry in Neuroanatomy}.
+\newblock PhD thesis, McGill University, Montreal, 2001.
+
+\bibitem{Csernansky98}
+J.G. Csernansky, S.~Joshi, L.E. Wang, J.~Haller, M.~Gado, J.P. Miller,
+  U.~Granander, and M.I. Miller.
+\newblock Hippocampal morphometry in schizophrenia via high dimensional brain
+  mapping.
+\newblock {\em Procedings of the National Academy of Sciences}, September 1998.
+
+\bibitem{Csernansky02}
+J.G. Csernansky, S.~D.J. Wang, L.~Jones, D.~Rastogi-Cru, G.~Posener, J.A.
+  Heydebrand, J.P. Miller, U.~Granander, and M.I. Miller.
+\newblock Hippocampal deformities in schizophrenia characterized by high
+  dimensional brain mapping.
+\newblock {\em American Journal of Psichiatry}, December 2002.
+
+\bibitem{Davatzikos96}
+C.~Davatzikos, M.~Vaillant, S.~Resnick, J.L. Prince, S.~Letovsky, and R.N.
+  Bryan.
+\newblock A computerized method for morphological analysis of the corpus
+  callosum.
+\newblock {\em Journal of Computer Assisted Tomography}, January 1996.
+
+\bibitem{edgington1995}
+E.~S. Edgington, editor.
+\newblock {\em Randomization Tests}.
+\newblock Academic Press, 1995.
+
+\bibitem{FDR2002}
+C.R. Genovese, N.A. Lazar, and T.~Nichols.
+\newblock Thresholding of statistical maps in functional neuroimaging using the
+  false discovery rate.
+\newblock {\em NeuroImage}, 1(15):870 -- 878, 2002.
+
+\bibitem{Genovese02}
+C.R. Genovese, N.A. Lazar, and T.~Nichols.
+\newblock Thresholding of statistical maps in functional neuroimaging using the
+  false discovery rate.
+\newblock {\em Neuroimage}, 15(4):870--8, April 2002.
+
+\bibitem{Golland99}
+P.~Golland, W.E.L. Grimson, and R.~Kikinis.
+\newblock Statistical shape analysis using fixed topology skeletons: Corpus
+  callosum study.
+\newblock {\em Information Processing in Medical Imaging}, 1999.
+
+\bibitem{Hatcher91}
+D.C. Hatcher.
+\newblock Craniofacial imaging.
+\newblock {\em Journal of the California Dental Association}, 6(19):27--34,
+  1991.
+
+\bibitem{Hazlett05}
+H.C. Hazlett, M.~Poe, and G.~Gerig.
+\newblock Magnetic resonance imaging and head circumference study of brain size
+  in autism: birth through age 2 years.
+\newblock {\em Archives of General Psychiatry}, 12(62):1366--1376, 2005.
+
+\bibitem{Helenius05}
+L.M. Helenius, D.~Hallikainen, I.~Helenius, J.H. Meurman, M.~Könönen, and
+  M.~Leirisalo-Repo.
+\newblock Clinical and radiographic findings of the temporomandibular joint in
+  patients with various rheumatic diseases: A case control study.
+\newblock {\em Oral surgery, oral medicine, oral pathology, oral radiology, and
+  endodontics}, 4(99):455--463, 2005.
+
+\bibitem{Joshi97}
+S.~Joshi, M.~Miller, and U.~Grenander.
+\newblock On the geometry and shape of brain sub-manifolds.
+\newblock {\em Pattern Recognition and Artificial Intelligence}, 1997.
+
+\bibitem{Nichols2001}
+T.E. Nichols and A.P. Holmes.
+\newblock Nonparametric analysis of pet functional neuroimaging experiments: A
+  primer with examples.
+\newblock {\em Hum Brain Mapp}, 1(15):1--25, Jan 2001.
+
+\bibitem{Oguz06}
+I.~Oguz, G.~Gerig, S.~Barre, and M.~Styner.
+\newblock Kwmeshvisu: A mesh visualization tool for shape analysis.
+\newblock {\em Insight Journal}, July 2006.
+
+\bibitem{CMake}
+Cmake Org.
+\newblock www.cmake.org, 2009.
+
+\bibitem{PantazisISBI04}
+D.~Pantazis, R.M. Leahy, T.E. Nichol, and M.~Styner.
+\newblock Statistical surface-based morphometry using a non-parametric
+  approach.
+\newblock In {\em Int. Symposium on Biomedical Imaging(ISBI)}, pages
+  1283--1286, April 2004.
+
+\bibitem{pantazis2003}
+D.~Pantazis, T.~E. Nichols, S.~Baillet, and R.~M. Leahy.
+\newblock Spatiotemporal localization of significant activation in meg using
+  permutation tests.
+\newblock In {\em Information Processing in Medical Imaging}, pages 512--523,
+  2003.
+
+\bibitem{Pizer99}
+S.~Pizer, D.~Fritsch, P.~Yushkevich, V.~Johnson, and E.~Chaney.
+\newblock Segmentation, registration and measurement of shape variation via
+  image object shape.
+\newblock {\em IEEE Transactions in Medical Imaging}, October 1999.
+
+\bibitem{Schlittgen09}
+R.~Schlittgen.
+\newblock {\em Kevin Kim, Neil Timm: Univariate and Multivariate General Linear
+  Models Theory and Applications with SAS; Second Edition}.
+\newblock Statistical Papers, March 2009.
+
+\bibitem{Seber04}
+G.A.F. Seber.
+\newblock {\em Multivariate Observations}.
+\newblock Wiley Series in Probability and Statistics, August 2004.
+
+\bibitem{sowell1999}
+E.R. Sowell, P.M. Thompson, C.J. Holmes, T.~L. Jernigan, and A.~W. Toga.
+\newblock In vivo evidence for post-adolescent frontal and striatal maturation.
+\newblock {\em Nature Neuroscience}, Sept./ Oct. 1999.
+
+\bibitem{Styner03_2}
+M.~Styner, G.~Gerig, J.A. Lieberman, D.~Jones, and D.~Weinberger.
+\newblock Statistical shape analysis of neuroanatomical structures based on
+  medial models.
+\newblock {\em Medical Image Analysis}, 2003.
+
+\bibitem{Styner03}
+M.~Styner, J.A. Lieberman, and G.~Gerig.
+\newblock Boundary and medial shape analysis of the hippocampus in
+  schizophrenia.
+\newblock {\em MICCAI 2003}, 2003.
+
+\bibitem{Styner05PNAS}
+M.~Styner, J.A. Lieberman, R.K. McClure, D.R. Weingberger, D.W. Jones, and
+  G.~Gerig.
+\newblock Morphometric analysis of lateral ventricles in schizophrenia and
+  healthy controls regarding genetic and disease-specific factors.
+\newblock {\em Proceedings of the National Academy of Science, PNAS},
+  102(12):4872--4877, 2005.
+
+\bibitem{Styner04MedIA}
+M.~Styner, J.A. Lieberman, D.~Pantazis, and G.~Gerig.
+\newblock Boundary and medial shape analysis of the hippocampus in
+  schizophrenia.
+\newblock {\em Medical Image Analysis}, 8(3):197--203, 2004.
+
+\bibitem{Styner06}
+M.~Styner, I.~Oguz, S.~Xu1, C.~Brechbuhler, D.~Pantazis, J.~Levitt, M.~Shenton,
+  and G.~Gerig.
+\newblock Framework for the statistical shape analysis of brain structures
+  using spharm-pdm.
+\newblock {\em Insight Journal}, July 2006.
+
+\bibitem{Thompson42}
+D.~Thompson.
+\newblock {\em On Growth and Form}.
+\newblock Cambridge University Press, 1942.
+
+\bibitem{worsley1996}
+K.~J. Worsley, S.~Marrett, P.~Neelin, A.~C. Vandal, K.~J. Friston, and A.~C.
+  Evans.
+\newblock A unified statistical approach for determining significant signals in
+  images of cerebral activation.
+\newblock {\em Human Brain Mapping}, 4:58--73, 1996.
+
+\bibitem{FDR1995}
+Y.~Hochberg Y.~Benjamini.
+\newblock Controlling false discovery rate: A practical and powerful approach
+  to multiple testing.
+\newblock {\em Stat. Soc. Ser. B}, 1(57):289--300, 1995.
+
+\end{thebibliography}

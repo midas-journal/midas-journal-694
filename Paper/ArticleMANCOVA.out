@@ -1,0 +1,25 @@
+\BOOKMARK [1][]{section.1}{Introduction}{}
+\BOOKMARK [1][]{section.2}{Traditional Approach}{}
+\BOOKMARK [2][]{subsection.2.1}{Local Testing of Group Mean Difference using Hotelling T2 metric}{section.2}
+\BOOKMARK [2][]{subsection.2.2}{Correction for Multiple Comparison}{section.2}
+\BOOKMARK [3][]{section*.2}{Minimum over Non-parametric permutation tests}{subsection.2.2}
+\BOOKMARK [3][]{section*.3}{False Discovery Rate}{subsection.2.2}
+\BOOKMARK [1][]{section.3}{Methods}{}
+\BOOKMARK [2][]{subsection.3.1}{Linear Model}{section.3}
+\BOOKMARK [2][]{subsection.3.2}{Statistics}{section.3}
+\BOOKMARK [1][]{section.4}{Program contents}{}
+\BOOKMARK [2][]{subsection.4.1}{Input}{section.4}
+\BOOKMARK [3][]{section*.4}{Input file}{subsection.4.1}
+\BOOKMARK [3][]{section*.5}{Input arguments}{subsection.4.1}
+\BOOKMARK [2][]{subsection.4.2}{Output}{section.4}
+\BOOKMARK [3][]{section*.6}{Text files}{subsection.4.2}
+\BOOKMARK [3][]{section*.7}{Mesh files}{subsection.4.2}
+\BOOKMARK [1][]{section.5}{Groupwise Analysis Scenarios}{}
+\BOOKMARK [2][]{subsection.5.1}{Cross-sectional growpwise analysis scenario}{section.5}
+\BOOKMARK [3][]{section*.8}{Hypothesis formulation}{subsection.5.1}
+\BOOKMARK [3][]{section*.9}{Results}{subsection.5.1}
+\BOOKMARK [2][]{subsection.5.2}{Longitudinal groupwise analysis scenario}{section.5}
+\BOOKMARK [3][]{section*.10}{Results}{subsection.5.2}
+\BOOKMARK [2][]{subsection.5.3}{Cross-sectional with interaction variables groupwise analysis scenario}{section.5}
+\BOOKMARK [3][]{section*.11}{Results}{subsection.5.3}
+\BOOKMARK [1][]{section.6}{Conclusions}{}
